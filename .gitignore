@@ -1,0 +1,7 @@
+*.gem
+.bundle/*
+vendor
+.idea
+*.html
+*.png
+.DS_Store
